@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: DoWon Kwon
     tagline: MS.-Ph.D student at GSST, POSTECH from 2026
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dowon.kwon@postech.ac.kr
